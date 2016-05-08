@@ -1,0 +1,3 @@
+**J-Sim** (formerly known as JavaSim) is a component-based, compositional simulation environment. It has been built upon the notion of the autonomous component programming model. Similar to COM/COM+, JavaBeansTM, or CORBA, the basic entity in J-Sim is components, but unlike the other component-based software packages/standards, components in J-Sim are autonomous and are realization of software ICs.
+
+For more information, please visit [the project site](http://sites.google.com/site/jsimofficial).
